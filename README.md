@@ -17,7 +17,7 @@ The code in age_and_gender_prediction.ipynb loads data from the archive/UTKFace 
 
 ## Performance of model
 
-Gender Accuracy Graph:​ The plot depicts training and validation accuracies for gender prediction over epochs, with the blue line indicating training accuracy and the red line representing validation accuracy, both showing steady improvement, affirming the model's gender prediction capability.​
+**Gender Accuracy Graph:​** The plot depicts training and validation accuracies for gender prediction over epochs, with the blue line indicating training accuracy and the red line representing validation accuracy, both showing steady improvement, affirming the model's gender prediction capability.​
 
 ![Gender Accuracy Graph](https://github.com/vinay2132/CSCE_5218_DEEP_LEARNING_PROJECT/assets/63947925/fde2bbfa-2c08-4e68-ac21-f7664e987f50)
 
