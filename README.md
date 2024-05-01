@@ -15,7 +15,7 @@ The code in **age_and_gender_prediction.ipynb** loads data from the **archive/UT
 -   **Seaborn:** Used for statistical data visualization. &nbsp;&nbsp; `pip install seaborn`
 -  ** tqdm**: Used for creating progress bars. &nbsp;&nbsp; `pip install tqdm`
 
-## Performance of model
+# Performance of model
 
 **Gender Accuracy Graph:​** The plot depicts training and validation accuracies for gender prediction over epochs, with the blue line indicating training accuracy and the red line representing validation accuracy, both showing steady improvement, affirming the model's gender prediction capability.​
 
@@ -35,4 +35,5 @@ The code in **age_and_gender_prediction.ipynb** loads data from the **archive/UT
 **Model Performance:​** The model consistently improves gender prediction accuracy and age prediction MAE over training epochs, indicating effective feature learning from facial images.​
 
 **Feature Consideration:** Further optimization and exploring alternative approaches could enhance model performance.​
+
 
