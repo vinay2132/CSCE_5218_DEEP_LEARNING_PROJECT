@@ -9,10 +9,11 @@ The code in age_and_gender_prediction.ipynb loads data from the archive/UTKFace 
 
 # Frameworks used
 
-TensorFlow: Used for deep learning tasks. Install with pip install tensorflow.
+**TensorFlow: Used for deep learning tasks. Install with pip install tensorflow.
 NumPy: Used for numerical computing. Install with pip install numpy.
 Keras: Used for building neural networks. Install with pip install keras.
 Matplotlib: Used for data visualization. Typically installed with other scientific computing libraries.
 Seaborn: Used for statistical data visualization. Install with pip install seaborn.
 tqdm: Used for creating progress bars. Install with pip install tqdm.
 Pillow (not explicitly imported but used indirectly through Keras for image loading): Install with pip install pillow.
+**
