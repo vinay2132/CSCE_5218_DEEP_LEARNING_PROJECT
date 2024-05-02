@@ -37,3 +37,14 @@ The code in **age_and_gender_prediction.ipynb** loads data from the **archive/UT
 **Feature Consideration:** Further optimization and exploring alternative approaches could enhance model performance.​
 
 
+#How to run the project
+
+First, go to GitHub and download the code. It'll come in a zip file along with the dataset. Before you run the code, make sure you have everything it needs, like specific software or frameworks. Then, you can run the code and see it in action.
+
+`age_and_gender_preduction.ipynb`: This file contains the code for predicting age and gender.
+`age_and_gender_preduction.pdf`: This is the code in PDF format along with the output files.
+`5218_ppt.pptx`: This is a PowerPoint presentation with explanations.
+`archive/UTKFace`: This folder contains all the images needed to train the model.
+
+
+
